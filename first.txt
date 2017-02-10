@@ -1,1 +1,2 @@
-i am ham and some people called me sam. I am Babu and i like to...........This is My first git project.
+i am ham and some people called me sam. I am Babu and i like to...........This is My first git project.  
+Im going through the git.
