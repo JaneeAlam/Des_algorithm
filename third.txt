@@ -1,1 +1,1 @@
-this is our third commit.
+this is our third commit. we are trying to learn git.
